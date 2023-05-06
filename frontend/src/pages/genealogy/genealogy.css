@@ -1,0 +1,22 @@
+.genealogy {
+  flex: 5;
+  overflow: scroll;
+
+  height: 70vh;
+}
+
+.zoomButtons {
+  width: 30px;
+  font-size: 20px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: 1px solid black;
+  margin-right: 20px;
+  margin-top: 10px;
+  cursor: pointer;
+  background-color: white;
+}
+
+/* ::-webkit-scrollbar {
+  display: none;
+} */

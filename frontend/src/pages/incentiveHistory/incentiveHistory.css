@@ -1,0 +1,11 @@
+.incentiveHistory {
+  flex: 5;
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+}
+
+.homeWidgets {
+  display: flex;
+  margin: 20px;
+}
